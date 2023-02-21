@@ -6,7 +6,7 @@ The E-commerce YTD analyst has conducted an in-depth analysis of the company's p
 
 Tabeau Dashboard: <a href="https://public.tableau.com/app/profile/lucian6345/viz/E-CommerceYear-to-DateSales/Dashboard1?publish=yes" target="_blank">E-Commerce YTD Sales Analyst</a>
 
-The E-commerce YTD analyst has analyzed the company's market share by sales, broken down by region. According to the data, the Pacific Asian market accounted for 8.32% of sales, while Latin America was the largest market with 45.86% of sales, followed by Europe with 43.37%, Africa with 2.25%, and USCA with only 0.21% of sales.
+The company's market share by sales, broken down by region. According to the data, the Pacific Asian market accounted for 8.32% of sales, while Latin America was the largest market with 45.86% of sales, followed by Europe with 43.37%, Africa with 2.25%, and USCA with only 0.21% of sales.
 
 The results suggest that the company has a significant presence in Latin America and Europe, with a smaller but still noteworthy presence in the Pacific Asian and African markets. However, the USCA market appears to be an area for potential improvement, as the company has a relatively low market share in this region.
 
