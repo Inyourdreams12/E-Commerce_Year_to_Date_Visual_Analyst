@@ -1,5 +1,5 @@
 # E-commerce Year-to-Date (YTD) Sales Performance Analyst
-
+<br>
 <br>
 
 The E-commerce YTD analyst has conducted an in-depth analysis of the company's performance, focusing on several key metrics including sales, profits, order quantity, market share by sales, category-wise YTD versus Previous YTD sales, and market-wise customer acquisition per month. Through this analysis, the analyst has identified trends and patterns in the company's performance, providing valuable insights into areas of strength and opportunities for improvement.
