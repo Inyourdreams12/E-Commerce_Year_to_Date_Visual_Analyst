@@ -4,8 +4,16 @@
 
 The E-commerce YTD analyst has conducted an in-depth analysis of the company's performance, focusing on several key metrics including sales, profits, order quantity, market share by sales, category-wise YTD versus Previous YTD sales, and market-wise customer acquisition per month. Through this analysis, the analyst has identified trends and patterns in the company's performance, providing valuable insights into areas of strength and opportunities for improvement.
 
-Tabeau Dashboard: <a href="https://public.tableau.com/app/profile/lucian6345/viz/E-CommerceYear-to-DateSales/Dashboard1?publish=yes" target="_blank">E-Commerce YTD Sales Analyst</a>
+Tabeau Dashboard: <a href="https://public.tableau.com/app/profile/lucian6345/viz/E-CommerceYear-to-DateSales/Dashboard1?publish=yes" target="_blank">E-Commerce YTD Sales Analyst</a> (fullscreen mode recommend)	
+<pre>
 
+
+
+
+   
+
+   
+</pre>
 The company's market share by sales, broken down by region. According to the data, the Pacific Asian market accounted for 8.32% of sales, while Latin America was the largest market with 45.86% of sales, followed by Europe with 43.37%, Africa with 2.25%, and USCA with only 0.21% of sales.
 
 The results suggest that the company has a significant presence in Latin America and Europe, with a smaller but still noteworthy presence in the Pacific Asian and African markets. However, the USCA market appears to be an area for potential improvement, as the company has a relatively low market share in this region.
@@ -19,7 +27,15 @@ This information can be used to guide strategic decision-making around sales and
 
 <br>
 <br>
+<pre>
 
+
+
+
+   
+
+   
+</pre>
 The company's category-wise sales, comparing the current year-to-date (YTD) sales with the previous year's sales (PYTD). The analysis revealed that the Cardio Equipment category generated $2.34 million in sales, representing a decline of 4.05% compared to the previous year.
 
 The Fishing category saw a larger decline in sales, generating $1.9 million in YTD sales, which is a 25% decline compared to PYTD. In contrast, the Camping & Hiking and Water Sport categories experienced an increase in sales, generating $1.66 million (up 12%) and $1.34 million (up 21.1%), respectively.
@@ -37,7 +53,15 @@ It can be used to inform decision-making around product development, marketing, 
 
 <br>
 <br>
+<pre>
 
+
+
+
+   
+
+   
+</pre>
 The E-commerce YTD analyst has conducted an analysis of the company's order quantity, ranked by market, from January to December. 
 
    + GREEN - The Pacific Asian market had the highest order quantity in January and February, with a rank of 1 and 2, respectively. The market had an order quantity of 4 in the months of March to June, and a rank of 3 or 2 in the rest of the months.
@@ -53,5 +77,13 @@ The E-commerce YTD analyst has conducted an analysis of the company's order quan
 <p align="center">
   <img width="721" alt="image" src="https://user-images.githubusercontent.com/119731058/220455992-80ab7601-bbfe-4e45-b37c-8ed15c5eaa54.png">
 </p>
+<pre>
 
+
+
+
+   
+
+   
+</pre>
 This data provides insights into the company's order quantity performance by market, highlighting areas of strength and opportunities for improvement. It can be used to inform decision-making around supply chain management, such as optimizing inventory levels and forecasting demand by market.
