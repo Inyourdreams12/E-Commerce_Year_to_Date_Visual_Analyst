@@ -24,9 +24,6 @@ The results suggest that the company has a significant presence in Latin America
 
 
 This information can be used to guide strategic decision-making around sales and marketing, such as investing in specific markets to increase market share, improving brand awareness in markets with lower sales, or exploring new regions for growth opportunities.
-
-<br>
-<br>
 <pre>
 
 
@@ -49,10 +46,6 @@ The Shop by Sport category generated $0.37 million in YTD sales, representing a 
 
 This data provides insights into the company's performance by category, highlighting areas of strength and opportunities for improvement. 
 It can be used to inform decision-making around product development, marketing, and inventory management, such as focusing on the categories with the highest growth potential or implementing strategies to improve sales in declining categories.
-
-
-<br>
-<br>
 <pre>
 
 
